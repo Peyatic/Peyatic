@@ -30,7 +30,7 @@ Piatec Co. is a leading engineering company with a focus on urban and industrial
 
 - وب‌سایت رسمی شرکت: [Peyatic.com](https://Peyatic.com)  
 - تماس با ما: info@peyatic.com  
-- لینکدین: [linkedin.com/company/Peyatic](https://linkedin.com/company/Peyatic) *(
+- لینکدین: [linkedin.com/company/Peyatic](https://linkedin.com/company/Peyatic) *
 
 ---
 
