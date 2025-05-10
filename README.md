@@ -1,4 +1,4 @@
-# شرکت پیاتیک | Piatec Co.
+# شرکت پیاتیک | Peyatic Co.
 
 **مهندسین پیشگام در صنعت آب و فاضلاب ایران**
 
@@ -28,9 +28,9 @@ Piatec Co. is a leading engineering company with a focus on urban and industrial
 
 ## لینک‌های مفید | Useful Links
 
-- وب‌سایت رسمی شرکت: [piatec.ir](https://piatec.ir)  
-- تماس با ما: info@piatec.ir  
-- لینکدین: [linkedin.com/company/piatec](https://linkedin.com/company/piatec) *(در صورت وجود)*
+- وب‌سایت رسمی شرکت: [Peyatic.com](https://Peyatic.com)  
+- تماس با ما: info@peyatic.com  
+- لینکدین: [linkedin.com/company/Peyatic](https://linkedin.com/company/Peyatic) *(در صورت وجود)*
 
 ---
 
